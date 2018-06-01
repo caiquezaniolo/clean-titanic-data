@@ -1,9 +1,9 @@
-/ Publicly available datasets collection
+# Publicly available datasets collection
 
-// Titanic dataset
+## Titanic dataset
 
-// Cars
+## Cars
 
-// LAPD Arrests
+## LAPD Arrests
 
-// World Population Prospects
+## World Population Prospects
